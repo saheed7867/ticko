@@ -1,0 +1,65 @@
+#gg
+{
+	background-color:orange;
+	width:100%;
+	height:3%;
+}
+.logo
+{
+	width:3%;
+	height:10%;
+
+}
+.hhh
+{
+	width:20%;
+	height:20%;
+}
+.b 
+{
+	background-color:lavender;
+}
+#ikka
+{
+	padding:0%;
+	background-color:deepskyblue;
+	width:100%;
+	height:%;
+}
+h1
+{
+	text-align:center;
+	margin:0 auto;
+}
+.jj
+{
+	
+	background-color:deepskyblue;
+	width:100%;
+	height: 60%;
+
+	
+}
+.II
+{
+	text-align:center;
+	margin:auto;
+}
+.TICKO
+{
+	background-color:greenyellow;
+	margin:0 auto;
+}
+.VC
+{
+	background-color:ghostwhite;
+	margin:0 auto;
+}
+.SA 
+{
+	background-color:rosybrown;
+	margin:0 auto;
+}
+<div id="gg">
+    <a href="ticko.html"><img src="image/menu.png" class="logo"></a>
+</br>
